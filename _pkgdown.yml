@@ -1,0 +1,13 @@
+navbar:
+  structure:
+    left: [home, intro, reference, articles]
+    right: [github]
+  components:
+    articles:
+      text: Articles
+      href: articles/index.html
+
+articles:
+  - title: "Testing"
+    contents:
+    - test
